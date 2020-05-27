@@ -1,0 +1,1 @@
+handler1.get_by_tags

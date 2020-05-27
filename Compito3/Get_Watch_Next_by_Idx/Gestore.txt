@@ -1,0 +1,5 @@
+handler4.get_by_event
+
+1) Per collegare al db creare file e chiamarlo variables11.env 
+2) inserire il seguente codice:
+    DB=mongodb+srv://admin:9OuRAu0a42M8sqVB@cluster0-kkfnv.mongodb.net/
